@@ -1,0 +1,12 @@
+{
+  "name": "nsc-reddit",
+  "version": "0.0.1",
+  "description": "Reddit spider for nsc scraper",
+  "main": "reddit.json",
+  "keywords": [
+    "nsc",
+    "nsc-spider"
+  ],
+  "author": "",
+  "license": "ISC"
+}
